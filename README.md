@@ -19,6 +19,8 @@ Other                              16 hrs 54 mins        ⣦⣀⣀⣀⣀⣀⣀�
 
 -->
 
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
 
 ## 🛠 TL;DR
 
