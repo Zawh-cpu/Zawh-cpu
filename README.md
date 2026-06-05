@@ -1,6 +1,21 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+## Short stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.hackclub.dev/api/wakatime?username=31205&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime+Stats&layout=compact&langs_count=10"
+    width="800"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://heatmap.shymike.dev/?id=31205&timezone=Europe/Moscow"
+    width="1000"
+  />
+</p>
 
 ## 🛠 TL;DR
 
