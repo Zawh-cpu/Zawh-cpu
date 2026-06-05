@@ -22,4 +22,4 @@ jobs:
           plugin_wakatime_limit: 4
 
           plugin_wakatime_url: https://waka.hackclub.com
-          plugin_wakatime_user: .user.login
+          # plugin_wakatime_user: .user.login
